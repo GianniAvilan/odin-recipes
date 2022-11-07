@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    background-color: bisque;
+    color: rgba(50, 50, 50, 0.8);
+    padding: 25px;
+}
+
+ul.nav {
+    background-color: rgba(114, 114, 114, 0.5);
+    text-align: left;
+    color: white;
+    font-weight: 1000;
+    width: 15%;
+    font-size: 15px;
+}
